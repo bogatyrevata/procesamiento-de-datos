@@ -1,0 +1,16 @@
+# Окружение и кэш
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+ 
+# Системные файлы
+.DS_Store
+ 
+# Секреты
+.env
+*.key
+ 
+# Большие данные (описывай источник в data/README.md)
+# data/
+ 
